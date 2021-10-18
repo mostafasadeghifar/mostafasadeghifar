@@ -1,16 +1,27 @@
-### Hi there 👋
+# Mostafa Sadeghifr
+## PHP-Laravel Developer
 
-<!--
-**mostafasadeghifar/mostafasadeghifar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Enjoy Learning and deveop
 
-Here are some ideas to get you started:
+## Bio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Name: Mostafa Sadeghifar
+- Current job title: PHP-Laravel Developer
+- Hometown: Iran/Malayer
+- Hobbies: Coding,Gaming,Swimming
+- Education: M.sc Electrical Engineering
+-  Base Skills: 
+--  Php, Laravel, Socket,Vue,Database(sql,nosql)
+- Other: 
+--Html,Css,javascript,bootstrap,tailwinds,inertia.js,livewire,nuxt.js
+
+## Tech
+
+Number of open source projects to work:
+- [AngularJS] - HTML enhanced for web apps!
+- [Inertia.js] - awesome tools for develop app
+- [Livewire] - great laravel toool.
+- [Bootstrap] - great UI boilerplate for modern web apps
+- [Tailwinds] - awesome css framework
+- [Nuxt] - framework for vue framework
+
