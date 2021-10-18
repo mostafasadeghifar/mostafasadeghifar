@@ -18,7 +18,8 @@ Enjoy Learning and deveop
 ## Tech
 
 Number of open source projects to work:
-- [AngularJS] - HTML enhanced for web apps!
+- [Laravel] - Fly to infinity web-app!
+- [Vue JS] - HTML enhanced for web apps!
 - [Inertia.js] - awesome tools for develop app
 - [Livewire] - great laravel toool.
 - [Bootstrap] - great UI boilerplate for modern web apps
