@@ -17,8 +17,8 @@ Enjoy Learning
 -  Base Skills: 
     Php ,Laravel ,Go ,Echo ,Socket,Vuejs ,Nuxtjs ,Database(sql,nosql)
 - Other: 
-    Python ,Django ,C/C++ ,javascript,Bash/Shell script ,inertia.js ,livewire
-- Os: Linux(debian base,fedora base, arch base)
+    Python ,Django ,C/C++ ,javascript ,Bash/Shell script ,inertia.js ,livewire
+- Os: Linux(debian base ,fedora base ,arch base)
 
 ## Tech
 
