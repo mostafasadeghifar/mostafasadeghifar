@@ -15,9 +15,9 @@ Enjoy Learning
 - Hobbies: Coding,Gaming,Swimming
 - Education: M.sc Electrical Engineering
 -  Base Skills: 
---  Php ,Laravel ,Go ,Echo ,Socket,Vuejs ,Nuxtjs ,Database(sql,nosql)
+    Php ,Laravel ,Go ,Echo ,Socket,Vuejs ,Nuxtjs ,Database(sql,nosql)
 - Other: 
---Python ,Django ,C/C++ ,javascript ,bootstrap ,tailwinds ,inertia.js ,livewire
+    Python ,Django ,C/C++ ,javascript ,bootstrap ,tailwinds ,inertia.js ,livewire
 
 ## Tech
 
