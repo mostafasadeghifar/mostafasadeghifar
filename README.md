@@ -10,14 +10,14 @@ Enjoy Learning
 ## Bio
 
 - Name: Mostafa Sadeghifar
-- Current job title: PHP-Laravel Developer
-- Hometown: Iran/Malayer
+- Current job title: Full Stack Web Developer
+- Hometown: Iran/Tehran
 - Hobbies: Coding,Gaming,Swimming
 - Education: M.sc Electrical Engineering
 -  Base Skills: 
---  Php, Laravel, Socket,Vue,Database(sql,nosql)
+--  Php ,Laravel ,Go ,Echo ,Socket,Vuejs ,Nuxtjs ,Database(sql,nosql)
 - Other: 
---Html,Css,javascript,bootstrap,tailwinds,inertia.js,livewire,nuxt.js
+--Python ,Django ,C/C++ ,javascript ,bootstrap ,tailwinds ,inertia.js ,livewire
 
 ## Tech
 
