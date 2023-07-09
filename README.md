@@ -17,13 +17,15 @@ Enjoy Learning
 -  Base Skills: 
     Php ,Laravel ,Go ,Echo ,Socket,Vuejs ,Nuxtjs ,Database(sql,nosql)
 - Other: 
-    Python ,Django ,C/C++ ,javascript ,bootstrap ,tailwinds ,inertia.js ,livewire
+    Python ,Django ,C/C++ ,javascript,Bash/Shell script ,inertia.js ,livewire
+- Os: Linux(debian base,fedora base, arch base)
 
 ## Tech
 
 Number of open source projects to work:
 - [Laravel] - Fly to infinity web-app!
 - [Vue JS] - HTML enhanced for web apps!
+- [Echo] -  powerful and versatile web framework
 - [Inertia.js] - awesome tools for develop app
 - [Livewire] - great laravel toool.
 - [Bootstrap] - great UI boilerplate for modern web apps
